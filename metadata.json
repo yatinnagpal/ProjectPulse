@@ -1,0 +1,6 @@
+{
+  "name": "ProjectPulse Precision SaaS",
+  "description": "High-velocity project tracking and automated AI synthesis for modern engineering teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
